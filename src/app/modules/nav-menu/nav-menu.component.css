@@ -1,0 +1,50 @@
+.frind{
+    margin-left: 439px;
+    margin-right: 120px;
+}
+.frind {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    gap: 15px;
+    background-color: #815B5B;
+    outline: 3px #815B5B solid;
+    outline-offset: -3px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: 400ms;
+  }
+  
+  .frind:hover {
+    background-color: transparent;
+  }
+
+.AI {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 15px;
+    gap: 15px;
+    background-color: #815B5B;
+    outline: 3px #815B5B solid;
+    outline-offset: -3px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    transition: 400ms;
+}
+  
+.AI:hover {
+  background-color: transparent;
+}
+
+.mat-toolbar{
+    background-color:rgb(192, 150, 150);
+    border: none;
+    border-radius: 5px;
+    box-shadow: 7px 12px 28px -3px rgba(0,0,0,0.8);
+    -webkit-box-shadow: 7px 12px 28px -3px rgba(0,0,0,0.8);
+    -moz-box-shadow: 7px 12px 28px -3px rgba(0,0,0,0.8);
+}
